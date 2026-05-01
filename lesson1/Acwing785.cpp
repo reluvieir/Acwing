@@ -19,7 +19,8 @@ void quick_sort(int q[],int l,int r){
         if(i<j) swap(q[i],q[j]);    // 如果指针还没有交叉，交换这两个错位的数
     }
     
-    quick_sort(q,l,j);  // 使用i可能会陷入死循环
+    quick_sort(q,l,j);  // 使用i可能会陷入死循环，当x=q[i]时，i停在这个位置不动
+    // 同时使用j时，上面就不能用q[r]，不然也会死循环
     quick_sort(q,j+1,r);
 }
 
