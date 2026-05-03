@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 
-vector<int> add(vector<int> A,vector<int> B){
+vector<int> add(vector<int> &A,vector<int> &B){
     if(B.size()>A.size())   return add(B,A);
     vector<int> C;
     
