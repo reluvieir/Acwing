@@ -14,3 +14,5 @@ AcWing 基础算法课练习代码
 | 792   | 高精度减法 | Acwing792.cpp   |
 | 793   | 高精度乘法 | Acwing793.cpp   |
 | 794   | 高精度除法 | Acwing794.cpp   |
+| 795   | 一维前缀和 | Acwing795.cpp   |
+| 796   | 二维前缀和 | Acwing796.cpp   |
