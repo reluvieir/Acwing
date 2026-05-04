@@ -10,3 +10,7 @@ AcWing 基础算法课练习代码
 | 788   | 归并排序算逆序对 | Acwing788.cpp   |
 | 789   | 数的范围（整数二分） | Acwing789.cpp   |
 | 790   | 数的三次方根（浮点数二分） | Acwing790.cpp   |
+| 791   | 高精度加法 | Acwing791.cpp   |
+| 792   | 高精度减法 | Acwing792.cpp   |
+| 793   | 高精度乘法 | Acwing793.cpp   |
+| 794   | 高精度除法 | Acwing794.cpp   |
