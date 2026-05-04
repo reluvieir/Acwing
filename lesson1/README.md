@@ -16,3 +16,4 @@ AcWing 基础算法课练习代码
 | 794   | 高精度除法 | Acwing794.cpp   |
 | 795   | 一维前缀和 | Acwing795.cpp   |
 | 796   | 二维前缀和 | Acwing796.cpp   |
+| 797   | 一维差分 | Acwing797.cpp   |
